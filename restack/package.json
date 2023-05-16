@@ -10,7 +10,9 @@
     "./renderer/+config.js": "./dist/renderer/+config.js",
     "./renderer/+passToClient.js": "./dist/renderer/+passToClient.js",
     "./renderer/+onPageTransitionStart.js": "./dist/renderer/+onPageTransitionStart.js",
-    "./renderer/+onPageTransitionEnd.js": "./dist/renderer/+onPageTransitionEnd.js"
+    "./renderer/+onPageTransitionEnd.js": "./dist/renderer/+onPageTransitionEnd.js",
+    "./pages/test/+config.js": "./dist/pages/test/+config.js",
+    "./pages/test/+Page.js": "./dist/pages/test/+Page.js"
   },
   "dependencies": {
     "@vitejs/plugin-react": "^3.0.0",

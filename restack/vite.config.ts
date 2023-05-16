@@ -18,7 +18,9 @@ const config: UserConfig = {
             'restack/renderer/+config.js',
             'restack/renderer/+passToClient.js',
             'restack/renderer/+onPageTransitionStart.js',
-            'restack/renderer/+onPageTransitionEnd.js'
+            'restack/renderer/+onPageTransitionEnd.js',
+            'restack/pages/test/+config.js',
+            'restack/pages/test/+Page.js',
           ]
         }
       ],

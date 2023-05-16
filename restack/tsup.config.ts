@@ -8,6 +8,8 @@ export default defineConfig({
     './renderer/+passToClient.ts',
     './renderer/+onPageTransitionStart.ts',
     './renderer/+onPageTransitionEnd.ts',
+    "./pages/test/+config.ts",
+    "./pages/test/+Page.tsx",
     './components/usePageContext.tsx',
     './cli/index.ts',
     './index.ts'
